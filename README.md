@@ -1,4 +1,5 @@
 ```bash
+git clone https://github.com/ch33nchan/videogpt
 cd videoGPT
 conda create -n videollava python=3.10 -y
 conda activate videollava
